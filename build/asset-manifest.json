@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "./static/js/main.bfd76c20.js",
+    "static/media/bg.jfif": "./static/media/bg.eb29855e293fb7cfb329.jfif",
+    "index.html": "./index.html",
+    "main.bfd76c20.js.map": "./static/js/main.bfd76c20.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bfd76c20.js"
+  ]
+}
